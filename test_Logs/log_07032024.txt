@@ -1,0 +1,951 @@
+Connection established
+['Truck ID  82135', '', 'Gross    68230 kg ', 'Tare     34605 kg KEYED', 'Net      33625 kg', '', '12:29PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68230
+34605
+33625
+12:29PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    39410 kg', '', '01:35PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486110>
+82135
+39410
+01:35PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    39415 kg ', 'Tare     39410 kg RECALLED', 'Net          5 kg', '', '01:35PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+39415
+39410
+5
+01:35PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    39415 kg ', 'Tare     39430 kg KEYED', 'Net        -15 kg', '', '01:40PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+39415
+39430
+15
+01:40PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    39425 kg ', 'Tare     82135 kg KEYED', 'Net     -42710 kg', '', '01:41PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+39425
+82135
+42710
+01:41PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    39430 kg', '', '01:42PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860E0>
+82135
+39430
+01:42PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    39430 kg RECALLED', 'Tare     39420 kg ', 'Net         10 kg', '', '01:42PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+39430
+39420
+10
+01:42PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    39440 kg', '', '01:43PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486200>
+82135
+39440
+01:43PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    69495 kg ', 'Tare     39440 kg RECALLED', 'Net      30055 kg', '', '02:14PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+69495
+39440
+30055
+02:14PM
+03/04/2024
+Connection established
+['Truck ID  8300508', '', 'Gross    28525 kg RECALLED', 'Tare     14080 kg ', 'Net      14445 kg', '', '04:32PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+8300508
+28525
+14080
+14445
+04:32PM
+03/04/2024
+Connection established
+['', 'Truck ID   8300503', '', 'Gross    14065 kg', '', '04:34PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486200>
+8300503
+14065
+04:34PM
+03/04/2024
+Connection established
+['', 'Truck ID   8300508', '', 'Gross    31450 kg', '', '04:55PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486200>
+8300508
+31450
+04:55PM
+03/04/2024
+Connection established
+['Truck ID  8300508', '', 'Gross    31455 kg ', 'Tare     31450 kg RECALLED', 'Net          5 kg', '', '04:57PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+8300508
+31455
+31450
+5
+04:57PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14095 kg', '', '05:12PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+82135
+14095
+05:12PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    31640 kg ', 'Tare     14095 kg RECALLED', 'Net      17545 kg', '', '05:25PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+31640
+14095
+17545
+05:25PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14195 kg', '', '05:44PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+14195
+05:44PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    31560 kg ', 'Tare     14195 kg RECALLED', 'Net      17365 kg', '', '05:57PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+31560
+14195
+17365
+05:57PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14085 kg', '', '06:19PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486110>
+82135
+14085
+06:19PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    30795 kg ', 'Tare     14085 kg RECALLED', 'Net      16710 kg', '', '06:32PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+30795
+14085
+16710
+06:32PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14080 kg', '', '07:31PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486200>
+82135
+14080
+07:31PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    28595 kg ', 'Tare     14080 kg RECALLED', 'Net      14515 kg', '', '07:46PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+28595
+14080
+14515
+07:46PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14075 kg', '', '07:57PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+82135
+14075
+07:57PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    28695 kg ', 'Tare     14075 kg RECALLED', 'Net      14620 kg', '', '08:11PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+28695
+14075
+14620
+08:11PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14075 kg', '', '08:23PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+14075
+08:23PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    28485 kg ', 'Tare     14075 kg RECALLED', 'Net      14410 kg', '', '08:36PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+28485
+14075
+14410
+08:36PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    39400 kg', '', '09:10PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486110>
+82135
+39400
+09:10PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    67290 kg ', 'Tare     39400 kg RECALLED', 'Net      27890 kg', '', '09:33PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+67290
+39400
+27890
+09:33PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    42850 kg', '', '10:17PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486200>
+82135
+42850
+10:17PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    70125 kg ', 'Tare     42850 kg RECALLED', 'Net      27275 kg', '', '10:40PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+70125
+42850
+27275
+10:40PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    33015 kg', '', '10:58PM 03/04/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+82135
+33015
+10:58PM
+03/04/2024
+Connection established
+['Truck ID  82135', '', 'Gross    66220 kg ', 'Tare     33015 kg RECALLED', 'Net      33205 kg', '', '11:25PM 03/04/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+66220
+33015
+33205
+11:25PM
+03/04/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    30800 kg', '', '01:22AM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+30800
+01:22AM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    68575 kg ', 'Tare     30800 kg RECALLED', 'Net      37775 kg', '', '01:48AM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68575
+30800
+37775
+01:48AM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    30400 kg', '', '03:09AM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486110>
+82135
+30400
+03:09AM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    67730 kg ', 'Tare     30400 kg RECALLED', 'Net      37330 kg', '', '03:31AM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+67730
+30400
+37330
+03:31AM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14045 kg', '', '04:26AM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486200>
+82135
+14045
+04:26AM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    29125 kg ', 'Tare     14045 kg RECALLED', 'Net      15080 kg', '', '04:41AM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+29125
+14045
+15080
+04:41AM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14035 kg', '', '04:58AM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+82135
+14035
+04:58AM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    28565 kg ', 'Tare     14035 kg RECALLED', 'Net      14530 kg', '', '05:12AM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+28565
+14035
+14530
+05:12AM
+03/05/2024
+Connection established
+['', 'Truck ID   12345', '', 'Gross       65 kg', '', '08:30AM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+12345
+65
+08:30AM
+03/05/2024
+Connection established
+['', 'Truck ID   8965', '', 'Gross    69425 kg', '', '09:05AM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+8965
+69425
+09:05AM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    32440 kg', '', '03:22PM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+32440
+03:22PM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    67945 kg ', 'Tare     32440 kg RECALLED', 'Net      35505 kg', '', '03:54PM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+67945
+32440
+35505
+03:54PM
+03/05/2024
+Connection established
+['Truck ID  011070', '', 'Gross     1260 kg ', 'Tare        85 kg KEYED', 'Net       1175 kg', '', '04:08PM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+011070
+1260
+85
+1175
+04:08PM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    37960 kg', '', '04:35PM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+37960
+04:35PM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    71635 kg ', 'Tare     37960 kg RECALLED', 'Net      33675 kg', '', '05:05PM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+71635
+37960
+33675
+05:05PM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    30110 kg', '', '06:01PM 03/0']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486050>
+82135
+30110
+06:01PM
+03/0
+Connection established
+['Truck ID  82135', '', 'Gross    69135 kg ', 'Tare     30110 kg RECALLED', 'Net      39025 kg', '', '06:28PM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+69135
+30110
+39025
+06:28PM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    69130 kg', '', '06:30PM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4861D0>
+82135
+69130
+06:30PM
+03/05/2024
+Connection established
+['', 'Truck ID   81235', '', 'Gross    47200 kg', '', '08:01PM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4861D0>
+81235
+47200
+08:01PM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    69130 kg RECALLED', 'Tare     47175 kg ', 'Net      21955 kg', '', '08:02PM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+69130
+47175
+21955
+08:02PM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    47205 kg', '', '08:03PM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+47205
+08:03PM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    68050 kg ', 'Tare     47205 kg RECALLED', 'Net      20845 kg', '', '08:34PM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68050
+47205
+20845
+08:34PM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    30010 kg', '', '08:53PM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+82135
+30010
+08:53PM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    65655 kg ', 'Tare     30010 kg RECALLED', 'Net      35645 kg', '', '09:19PM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+65655
+30010
+35645
+09:19PM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    40380 kg', '', '09:59PM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+82135
+40380
+09:59PM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    68875 kg ', 'Tare     40380 kg RECALLED', 'Net      28495 kg', '', '10:48PM 03/05/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68875
+40380
+28495
+10:48PM
+03/05/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    42430 kg', '', '11:49PM 03/05/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4861D0>
+82135
+42430
+11:49PM
+03/05/2024
+Connection established
+['Truck ID  82135', '', 'Gross    70050 kg ', 'Tare     42430 kg RECALLED', 'Net      27620 kg', '', '12:22AM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+70050
+42430
+27620
+12:22AM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    36825 kg', '', '02:50AM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+36825
+02:50AM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    66820 kg ', 'Tare     36825 kg RECALLED', 'Net      29995 kg', '', '04:07AM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+66820
+36825
+29995
+04:07AM
+03/06/2024
+Connection established
+['', 'Truck ID   6473', '', 'Gross    71645 kg', '', '09:26AM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+6473
+71645
+09:26AM
+03/06/2024
+Connection established
+['', 'Truck ID   8965', '', 'Gross    18335 kg', '', '09:32AM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+8965
+18335
+09:32AM
+03/06/2024
+Connection established
+['', 'Truck ID   8965', '', 'Gross    18340 kg', '', '09:36AM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+8965
+18340
+09:36AM
+03/06/2024
+Connection established
+['', 'Truck ID   8965', '', 'Gross    18340 kg', '', '09:36AM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+8965
+18340
+09:36AM
+03/06/2024
+Connection established
+['', 'Truck ID   5987', '', 'Gross    27350 kg', '', '10:48AM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+5987
+27350
+10:48AM
+03/06/2024
+Connection established
+['', 'Truck ID   59871', '', 'Gross    27365 kg', '', '10:50AM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+59871
+27365
+10:50AM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    32305 kg', '', '12:34PM 03/06/2']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+82135
+32305
+12:34PM
+03/06/2
+Connection established
+['Truck ID  82135', '', 'Gross    32315 kg ', 'Tare     32305 kg RECALLED', 'Net         10 kg', '', '12:35PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+32315
+32305
+10
+12:35PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    32275 kg', '', '12:36PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486260>
+82135
+32275
+12:36PM
+03/06/2024
+Connection established
+['Truck ID  59871', '', 'Gross    27365 kg RECALLED', 'Tare     25535 kg ', 'Net       1830 kg', '', '12:43PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+59871
+27365
+25535
+1830
+12:43PM
+03/06/2024
+Connection established
+['', 'Truck ID   59872', '', 'Gross    25525 kg', '', '12:44PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+59872
+25525
+12:44PM
+03/06/2024
+Connection established
+['Truck ID  8213', '', 'Gross    69265 kg ', 'Tare     44935 kg RECALLED', 'Net      24330 kg', '', '01:07PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+8213
+69265
+44935
+24330
+01:07PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    69250 kg ', 'Tare     32275 kg RECALLED', 'Net      36975 kg', '', '01:09PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+69250
+32275
+36975
+01:09PM
+03/06/2024
+Connection established
+['Truck ID  59872', '', 'Gross    25525 kg RECALLED', 'Tare     22790 kg ', 'Net       2735 kg', '', '01:46PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+59872
+25525
+22790
+2735
+01:46PM
+03/06/2024
+Connection established
+['Truck ID  5987', '', 'Gross    27350 kg RECALLED', 'Tare     22805 kg ', 'Net       4545 kg', '', '01:47PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+5987
+27350
+22805
+4545
+01:47PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    31990 kg', '', '02:06PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+31990
+02:06PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    32060 kg ', 'Tare     31990 kg RECALLED', 'Net         70 kg', '', '02:06PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+32060
+31990
+70
+02:06PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    32055 kg', '', '02:07PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486290>
+82135
+32055
+02:07PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    68630 kg ', 'Tare     32055 kg RECALLED', 'Net      36575 kg', '', '02:32PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68630
+32055
+36575
+02:32PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    35180 kg', '', '03:37PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+82135
+35180
+03:37PM
+03/06/2024
+Connection established
+['', 'Truck ID   5602', '', 'Gross    72525 kg', '', '03:48PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+5602
+72525
+03:48PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    68115 kg ', 'Tare     35180 kg RECALLED', 'Net      32935 kg', '', '04:01PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68115
+35180
+32935
+04:01PM
+03/06/2024
+Connection established
+['Truck ID  6473', '', 'Gross    71645 kg RECALLED', 'Tare     20915 kg ', 'Net      50730 kg', '', '04:06PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+6473
+71645
+20915
+50730
+04:06PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    35520 kg', '', '05:07PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+82135
+35520
+05:07PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    68315 kg ', 'Tare     35520 kg RECALLED', 'Net      32795 kg', '', '05:41PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68315
+35520
+32795
+05:41PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    37560 kg', '', '06:50PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4861A0>
+82135
+37560
+06:50PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    70415 kg ', 'Tare     37560 kg RECALLED', 'Net      32855 kg', '', '07:25PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+70415
+37560
+32855
+07:25PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14135 kg', '', '08:24PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486110>
+82135
+14135
+08:24PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    27440 kg ', 'Tare     14135 kg RECALLED', 'Net      13305 kg', '', '08:41PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+27440
+14135
+13305
+08:41PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    14125 kg', '', '08:56PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+14125
+08:56PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    28180 kg ', 'Tare     14125 kg RECALLED', 'Net      14055 kg', '', '09:11PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+28180
+14125
+14055
+09:11PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    31070 kg', '', '09:56PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+82135
+31070
+09:56PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    67970 kg ', 'Tare     31070 kg RECALLED', 'Net      36900 kg', '', '10:26PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+67970
+31070
+36900
+10:26PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    48570 kg', '', '11:11PM 03/06/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4861A0>
+82135
+48570
+11:11PM
+03/06/2024
+Connection established
+['Truck ID  82135', '', 'Gross    68515 kg ', 'Tare     48570 kg RECALLED', 'Net      19945 kg', '', '11:36PM 03/06/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68515
+48570
+19945
+11:36PM
+03/06/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    52740 kg', '', '12:37AM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486110>
+82135
+52740
+12:37AM
+03/07/2024
+Connection established
+['Truck ID  82135', '', 'Gross    68760 kg ', 'Tare     52740 kg RECALLED', 'Net      16020 kg', '', '01:11AM 03/07/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+68760
+52740
+16020
+01:11AM
+03/07/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    40215 kg', '', '02:18AM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82135
+40215
+02:18AM
+03/07/2024
+Connection established
+['', 'Truck ID   82153', '', 'Gross    40185 kg', '', '03:26AM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF486020>
+82153
+40185
+03:26AM
+03/07/2024
+Connection established
+['Truck ID  82135', '', 'Gross    40215 kg RECALLED', 'Tare     40170 kg ', 'Net         45 kg', '', '03:27AM 03/07/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+82135
+40215
+40170
+45
+03:27AM
+03/07/2024
+Connection established
+['', 'Truck ID   82135', '', 'Gross    68335 kg', '', '04:02AM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4861A0>
+82135
+68335
+04:02AM
+03/07/2024
+Connection established
+['', 'Truck ID   13704', '', 'Gross    39265 kg', '', '09:46AM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4861A0>
+13704
+39265
+09:46AM
+03/07/2024
+Connection established
+['Truck ID  13704', '', 'Gross    67270 kg ', 'Tare     39265 kg RECALLED', 'Net      28005 kg', '', '10:10AM 03/07/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4860B0>
+13704
+67270
+39265
+28005
+10:10AM
+03/07/2024
+Connection established
+['', 'Truck ID   13707', '', 'Gross    43765 kg', '', '10:35AM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001B8DF4862C0>
+13707
+43765
+10:35AM
+03/07/2024
+Connection established
+['Truck ID  13707', '', 'Gr']
+Weigh In
+Exception in thread Thread-1 (setup):
+Traceback (most recent call last):
+  File "threading.py", line 1016, in _bootstrap_inner
+  File "threading.py", line 953, in run
+  File "gui.py", line 34, in setup
+  File "Final.py", line 36, in Auto
+    start=InputD[item]
+IndexError: list index out of range
