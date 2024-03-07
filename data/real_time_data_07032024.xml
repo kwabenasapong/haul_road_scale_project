@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">ID</Data></Cell>
+			<Cell><Data ss:Type="String">WEIGHT_GROSS</Data></Cell>
+			<Cell><Data ss:Type="String">DATE</Data></Cell>
+			<Cell><Data ss:Type="String">TIME</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30195</Data></Cell>
+			<Cell><Data ss:Type="String">05:21PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/22/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11166</Data></Cell>
+			<Cell><Data ss:Type="String">65</Data></Cell>
+			<Cell><Data ss:Type="String">05:25PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/22/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11149</Data></Cell>
+			<Cell><Data ss:Type="String">85</Data></Cell>
+			<Cell><Data ss:Type="String">07:46PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/22/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">81623</Data></Cell>
+			<Cell><Data ss:Type="String">2145</Data></Cell>
+			<Cell><Data ss:Type="String">07:48PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/22/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11149</Data></Cell>
+			<Cell><Data ss:Type="String">85</Data></Cell>
+			<Cell><Data ss:Type="String">07:54PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/22/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">123</Data></Cell>
+			<Cell><Data ss:Type="String">85</Data></Cell>
+			<Cell><Data ss:Type="String">08:13PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/22/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">123</Data></Cell>
+			<Cell><Data ss:Type="String">90</Data></Cell>
+			<Cell><Data ss:Type="String">08:23PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/22/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">122</Data></Cell>
+			<Cell><Data ss:Type="String">90</Data></Cell>
+			<Cell><Data ss:Type="String">08:50PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/22/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">83005</Data></Cell>
+			<Cell><Data ss:Type="String">14155</Data></Cell>
+			<Cell><Data ss:Type="String">10:06AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">83007</Data></Cell>
+			<Cell><Data ss:Type="String">14160</Data></Cell>
+			<Cell><Data ss:Type="String">11:03AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82343</Data></Cell>
+			<Cell><Data ss:Type="String">8380</Data></Cell>
+			<Cell><Data ss:Type="String">11:50AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">83007</Data></Cell>
+			<Cell><Data ss:Type="String">14130</Data></Cell>
+			<Cell><Data ss:Type="String">02:26PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30910</Data></Cell>
+			<Cell><Data ss:Type="String">05:26PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">33005</Data></Cell>
+			<Cell><Data ss:Type="String">06:27PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8213</Data></Cell>
+			<Cell><Data ss:Type="String">44935</Data></Cell>
+			<Cell><Data ss:Type="String">08:39PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">44940</Data></Cell>
+			<Cell><Data ss:Type="String">08:42PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">32370</Data></Cell>
+			<Cell><Data ss:Type="String">09:38PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">34420</Data></Cell>
+			<Cell><Data ss:Type="String">10:35PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">68470</Data></Cell>
+			<Cell><Data ss:Type="String">11:11PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30955</Data></Cell>
+			<Cell><Data ss:Type="String">11:46PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/23/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">31040</Data></Cell>
+			<Cell><Data ss:Type="String">12:59AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">31610</Data></Cell>
+			<Cell><Data ss:Type="String">02:11AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8235</Data></Cell>
+			<Cell><Data ss:Type="String">14275</Data></Cell>
+			<Cell><Data ss:Type="String">08:40AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14275</Data></Cell>
+			<Cell><Data ss:Type="String">09:19AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">31280</Data></Cell>
+			<Cell><Data ss:Type="String">09:35AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30965</Data></Cell>
+			<Cell><Data ss:Type="String">10:16AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8235</Data></Cell>
+			<Cell><Data ss:Type="String">67720</Data></Cell>
+			<Cell><Data ss:Type="String">10:49AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">36665</Data></Cell>
+			<Cell><Data ss:Type="String">11:34AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30175</Data></Cell>
+			<Cell><Data ss:Type="String">01:51PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">42965</Data></Cell>
+			<Cell><Data ss:Type="String">04:17PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14210</Data></Cell>
+			<Cell><Data ss:Type="String">07:19PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/24/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11070</Data></Cell>
+			<Cell><Data ss:Type="String">95</Data></Cell>
+			<Cell><Data ss:Type="String">07:39AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">83005</Data></Cell>
+			<Cell><Data ss:Type="String">75</Data></Cell>
+			<Cell><Data ss:Type="String">08:10AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82343</Data></Cell>
+			<Cell><Data ss:Type="String">8045</Data></Cell>
+			<Cell><Data ss:Type="String">08:39AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82343</Data></Cell>
+			<Cell><Data ss:Type="String">8045</Data></Cell>
+			<Cell><Data ss:Type="String">08:42AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82348</Data></Cell>
+			<Cell><Data ss:Type="String">8040</Data></Cell>
+			<Cell><Data ss:Type="String">08:43AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">821350607</Data></Cell>
+			<Cell><Data ss:Type="String">14250</Data></Cell>
+			<Cell><Data ss:Type="String">10:28AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8210607</Data></Cell>
+			<Cell><Data ss:Type="String">31120</Data></Cell>
+			<Cell><Data ss:Type="String">10:46AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13707</Data></Cell>
+			<Cell><Data ss:Type="String">33395</Data></Cell>
+			<Cell><Data ss:Type="String">11:32AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13075</Data></Cell>
+			<Cell><Data ss:Type="String">55740</Data></Cell>
+			<Cell><Data ss:Type="String">12:51PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13705</Data></Cell>
+			<Cell><Data ss:Type="String">68765</Data></Cell>
+			<Cell><Data ss:Type="String">01:17PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13642</Data></Cell>
+			<Cell><Data ss:Type="String">49305</Data></Cell>
+			<Cell><Data ss:Type="String">02:03PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13704</Data></Cell>
+			<Cell><Data ss:Type="String">36880</Data></Cell>
+			<Cell><Data ss:Type="String">04:23PM</Data></Cell>
+			<Cell><Data ss:Type="String">02</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300607</Data></Cell>
+			<Cell><Data ss:Type="String">14175</Data></Cell>
+			<Cell><Data ss:Type="String">05:36PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300607</Data></Cell>
+			<Cell><Data ss:Type="String">14170</Data></Cell>
+			<Cell><Data ss:Type="String">06:10PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13707</Data></Cell>
+			<Cell><Data ss:Type="String">33930</Data></Cell>
+			<Cell><Data ss:Type="String">08:04PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13642</Data></Cell>
+			<Cell><Data ss:Type="String">37195</Data></Cell>
+			<Cell><Data ss:Type="String">08:47PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13707</Data></Cell>
+			<Cell><Data ss:Type="String">49295</Data></Cell>
+			<Cell><Data ss:Type="String">09:29PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13704</Data></Cell>
+			<Cell><Data ss:Type="String">31620</Data></Cell>
+			<Cell><Data ss:Type="String">10:21PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/26/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">83007</Data></Cell>
+			<Cell><Data ss:Type="String">14125</Data></Cell>
+			<Cell><Data ss:Type="String">02:51AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">83007</Data></Cell>
+			<Cell><Data ss:Type="String">14155</Data></Cell>
+			<Cell><Data ss:Type="String">03:17AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">83007</Data></Cell>
+			<Cell><Data ss:Type="String">14145</Data></Cell>
+			<Cell><Data ss:Type="String">04:13AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">642</Data></Cell>
+			<Cell><Data ss:Type="String">32620</Data></Cell>
+			<Cell><Data ss:Type="String">07:50AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11275</Data></Cell>
+			<Cell><Data ss:Type="String">80</Data></Cell>
+			<Cell><Data ss:Type="String">08:59AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11277</Data></Cell>
+			<Cell><Data ss:Type="String">110</Data></Cell>
+			<Cell><Data ss:Type="String">09:03AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13642</Data></Cell>
+			<Cell><Data ss:Type="String">35320</Data></Cell>
+			<Cell><Data ss:Type="String">12:36PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">3705</Data></Cell>
+			<Cell><Data ss:Type="String">31005</Data></Cell>
+			<Cell><Data ss:Type="String">01:34PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13708</Data></Cell>
+			<Cell><Data ss:Type="String">30940</Data></Cell>
+			<Cell><Data ss:Type="String">03:10PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13704</Data></Cell>
+			<Cell><Data ss:Type="String">35960</Data></Cell>
+			<Cell><Data ss:Type="String">04:10PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13707</Data></Cell>
+			<Cell><Data ss:Type="String">30970</Data></Cell>
+			<Cell><Data ss:Type="String">05:27PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13707</Data></Cell>
+			<Cell><Data ss:Type="String">44205</Data></Cell>
+			<Cell><Data ss:Type="String">09:11PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13704</Data></Cell>
+			<Cell><Data ss:Type="String">31560</Data></Cell>
+			<Cell><Data ss:Type="String">10:06PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13705</Data></Cell>
+			<Cell><Data ss:Type="String">34185</Data></Cell>
+			<Cell><Data ss:Type="String">10:56PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/27/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+			<Cell><Data ss:Type="String">75</Data></Cell>
+			<Cell><Data ss:Type="String">02:48PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/28/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">68795</Data></Cell>
+			<Cell><Data ss:Type="String">02:55PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/28/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">46160</Data></Cell>
+			<Cell><Data ss:Type="String">04:08PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/28/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">39775</Data></Cell>
+			<Cell><Data ss:Type="String">10:06PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/28/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">43560</Data></Cell>
+			<Cell><Data ss:Type="String">11:57PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/28/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">36085</Data></Cell>
+			<Cell><Data ss:Type="String">12:56AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14260</Data></Cell>
+			<Cell><Data ss:Type="String">04:31AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30845</Data></Cell>
+			<Cell><Data ss:Type="String">05:29AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82212</Data></Cell>
+			<Cell><Data ss:Type="String">9800</Data></Cell>
+			<Cell><Data ss:Type="String">09:09AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30925</Data></Cell>
+			<Cell><Data ss:Type="String">10:55AM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">53235</Data></Cell>
+			<Cell><Data ss:Type="String">12:03PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">33540</Data></Cell>
+			<Cell><Data ss:Type="String">02:12PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30160</Data></Cell>
+			<Cell><Data ss:Type="String">03:33PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14270</Data></Cell>
+			<Cell><Data ss:Type="String">08:27PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14275</Data></Cell>
+			<Cell><Data ss:Type="String">09:14PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14265</Data></Cell>
+			<Cell><Data ss:Type="String">09:57PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">34755</Data></Cell>
+			<Cell><Data ss:Type="String">11:02PM</Data></Cell>
+			<Cell><Data ss:Type="String">02/29/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">34405</Data></Cell>
+			<Cell><Data ss:Type="String">12:12AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">35435</Data></Cell>
+			<Cell><Data ss:Type="String">01:28AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">37630</Data></Cell>
+			<Cell><Data ss:Type="String">02:41AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82212</Data></Cell>
+			<Cell><Data ss:Type="String">9765</Data></Cell>
+			<Cell><Data ss:Type="String">08:34AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1132</Data></Cell>
+			<Cell><Data ss:Type="String">80</Data></Cell>
+			<Cell><Data ss:Type="String">10:37AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">3044</Data></Cell>
+			<Cell><Data ss:Type="String">95</Data></Cell>
+			<Cell><Data ss:Type="String">10:42AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">45465</Data></Cell>
+			<Cell><Data ss:Type="String">01:05PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">36600</Data></Cell>
+			<Cell><Data ss:Type="String">02:21PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30780</Data></Cell>
+			<Cell><Data ss:Type="String">03:36PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30290</Data></Cell>
+			<Cell><Data ss:Type="String">04:39PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14285</Data></Cell>
+			<Cell><Data ss:Type="String">08:45PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14280</Data></Cell>
+			<Cell><Data ss:Type="String">09:27PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14275</Data></Cell>
+			<Cell><Data ss:Type="String">09:57PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14270</Data></Cell>
+			<Cell><Data ss:Type="String">10:30PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">39490</Data></Cell>
+			<Cell><Data ss:Type="String">11:52PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/01/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">31085</Data></Cell>
+			<Cell><Data ss:Type="String">12:53AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">44970</Data></Cell>
+			<Cell><Data ss:Type="String">02:03AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">33120</Data></Cell>
+			<Cell><Data ss:Type="String">03:52AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">14100</Data></Cell>
+			<Cell><Data ss:Type="String">08:18AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">14090</Data></Cell>
+			<Cell><Data ss:Type="String">08:52AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">14095</Data></Cell>
+			<Cell><Data ss:Type="String">09:23AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">14100</Data></Cell>
+			<Cell><Data ss:Type="String">10:16AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">14090</Data></Cell>
+			<Cell><Data ss:Type="String">10:56AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">14080</Data></Cell>
+			<Cell><Data ss:Type="String">11:35AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">14075</Data></Cell>
+			<Cell><Data ss:Type="String">12:05PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13708</Data></Cell>
+			<Cell><Data ss:Type="String">71260</Data></Cell>
+			<Cell><Data ss:Type="String">01:39PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13707</Data></Cell>
+			<Cell><Data ss:Type="String">30740</Data></Cell>
+			<Cell><Data ss:Type="String">02:32PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13705</Data></Cell>
+			<Cell><Data ss:Type="String">68470</Data></Cell>
+			<Cell><Data ss:Type="String">04:24PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13704</Data></Cell>
+			<Cell><Data ss:Type="String">43575</Data></Cell>
+			<Cell><Data ss:Type="String">05:04PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13705</Data></Cell>
+			<Cell><Data ss:Type="String">68265</Data></Cell>
+			<Cell><Data ss:Type="String">09:14PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13704</Data></Cell>
+			<Cell><Data ss:Type="String">39870</Data></Cell>
+			<Cell><Data ss:Type="String">09:54PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13708</Data></Cell>
+			<Cell><Data ss:Type="String">37435</Data></Cell>
+			<Cell><Data ss:Type="String">10:53PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/02/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30705</Data></Cell>
+			<Cell><Data ss:Type="String">05:30AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">39620</Data></Cell>
+			<Cell><Data ss:Type="String">10:43AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">31050</Data></Cell>
+			<Cell><Data ss:Type="String">11:30AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13642</Data></Cell>
+			<Cell><Data ss:Type="String">46120</Data></Cell>
+			<Cell><Data ss:Type="String">02:01PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">69285</Data></Cell>
+			<Cell><Data ss:Type="String">02:29PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">14165</Data></Cell>
+			<Cell><Data ss:Type="String">03:29PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">830508</Data></Cell>
+			<Cell><Data ss:Type="String">14175</Data></Cell>
+			<Cell><Data ss:Type="String">04:03PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">28525</Data></Cell>
+			<Cell><Data ss:Type="String">04:18PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">40425</Data></Cell>
+			<Cell><Data ss:Type="String">05:00PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">32360</Data></Cell>
+			<Cell><Data ss:Type="String">09:34PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/03/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">31925</Data></Cell>
+			<Cell><Data ss:Type="String">01:51AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">34590</Data></Cell>
+			<Cell><Data ss:Type="String">02:44AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30750</Data></Cell>
+			<Cell><Data ss:Type="String">03:37AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82212</Data></Cell>
+			<Cell><Data ss:Type="String">9870</Data></Cell>
+			<Cell><Data ss:Type="String">08:34AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82343</Data></Cell>
+			<Cell><Data ss:Type="String">8010</Data></Cell>
+			<Cell><Data ss:Type="String">09:58AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">34605</Data></Cell>
+			<Cell><Data ss:Type="String">11:40AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">39410</Data></Cell>
+			<Cell><Data ss:Type="String">01:35PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">39430</Data></Cell>
+			<Cell><Data ss:Type="String">01:42PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">39440</Data></Cell>
+			<Cell><Data ss:Type="String">01:43PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300503</Data></Cell>
+			<Cell><Data ss:Type="String">14065</Data></Cell>
+			<Cell><Data ss:Type="String">04:34PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8300508</Data></Cell>
+			<Cell><Data ss:Type="String">31450</Data></Cell>
+			<Cell><Data ss:Type="String">04:55PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14095</Data></Cell>
+			<Cell><Data ss:Type="String">05:12PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14195</Data></Cell>
+			<Cell><Data ss:Type="String">05:44PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14085</Data></Cell>
+			<Cell><Data ss:Type="String">06:19PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14080</Data></Cell>
+			<Cell><Data ss:Type="String">07:31PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14075</Data></Cell>
+			<Cell><Data ss:Type="String">07:57PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14075</Data></Cell>
+			<Cell><Data ss:Type="String">08:23PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">39400</Data></Cell>
+			<Cell><Data ss:Type="String">09:10PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">42850</Data></Cell>
+			<Cell><Data ss:Type="String">10:17PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">33015</Data></Cell>
+			<Cell><Data ss:Type="String">10:58PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/04/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30800</Data></Cell>
+			<Cell><Data ss:Type="String">01:22AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30400</Data></Cell>
+			<Cell><Data ss:Type="String">03:09AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14045</Data></Cell>
+			<Cell><Data ss:Type="String">04:26AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14035</Data></Cell>
+			<Cell><Data ss:Type="String">04:58AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">12345</Data></Cell>
+			<Cell><Data ss:Type="String">65</Data></Cell>
+			<Cell><Data ss:Type="String">08:30AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8965</Data></Cell>
+			<Cell><Data ss:Type="String">69425</Data></Cell>
+			<Cell><Data ss:Type="String">09:05AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">32440</Data></Cell>
+			<Cell><Data ss:Type="String">03:22PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">37960</Data></Cell>
+			<Cell><Data ss:Type="String">04:35PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30110</Data></Cell>
+			<Cell><Data ss:Type="String">06:01PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">69130</Data></Cell>
+			<Cell><Data ss:Type="String">06:30PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">81235</Data></Cell>
+			<Cell><Data ss:Type="String">47200</Data></Cell>
+			<Cell><Data ss:Type="String">08:01PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">47205</Data></Cell>
+			<Cell><Data ss:Type="String">08:03PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">30010</Data></Cell>
+			<Cell><Data ss:Type="String">08:53PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">40380</Data></Cell>
+			<Cell><Data ss:Type="String">09:59PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">42430</Data></Cell>
+			<Cell><Data ss:Type="String">11:49PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/05/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">36825</Data></Cell>
+			<Cell><Data ss:Type="String">02:50AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">6473</Data></Cell>
+			<Cell><Data ss:Type="String">71645</Data></Cell>
+			<Cell><Data ss:Type="String">09:26AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8965</Data></Cell>
+			<Cell><Data ss:Type="String">18335</Data></Cell>
+			<Cell><Data ss:Type="String">09:32AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8965</Data></Cell>
+			<Cell><Data ss:Type="String">18340</Data></Cell>
+			<Cell><Data ss:Type="String">09:36AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8965</Data></Cell>
+			<Cell><Data ss:Type="String">18340</Data></Cell>
+			<Cell><Data ss:Type="String">09:36AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">5987</Data></Cell>
+			<Cell><Data ss:Type="String">27350</Data></Cell>
+			<Cell><Data ss:Type="String">10:48AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">59871</Data></Cell>
+			<Cell><Data ss:Type="String">27365</Data></Cell>
+			<Cell><Data ss:Type="String">10:50AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">32305</Data></Cell>
+			<Cell><Data ss:Type="String">12:34PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">32275</Data></Cell>
+			<Cell><Data ss:Type="String">12:36PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">59872</Data></Cell>
+			<Cell><Data ss:Type="String">25525</Data></Cell>
+			<Cell><Data ss:Type="String">12:44PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">31990</Data></Cell>
+			<Cell><Data ss:Type="String">02:06PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">32055</Data></Cell>
+			<Cell><Data ss:Type="String">02:07PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">35180</Data></Cell>
+			<Cell><Data ss:Type="String">03:37PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">5602</Data></Cell>
+			<Cell><Data ss:Type="String">72525</Data></Cell>
+			<Cell><Data ss:Type="String">03:48PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">35520</Data></Cell>
+			<Cell><Data ss:Type="String">05:07PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">37560</Data></Cell>
+			<Cell><Data ss:Type="String">06:50PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14135</Data></Cell>
+			<Cell><Data ss:Type="String">08:24PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">14125</Data></Cell>
+			<Cell><Data ss:Type="String">08:56PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">31070</Data></Cell>
+			<Cell><Data ss:Type="String">09:56PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">48570</Data></Cell>
+			<Cell><Data ss:Type="String">11:11PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/06/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">52740</Data></Cell>
+			<Cell><Data ss:Type="String">12:37AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">40215</Data></Cell>
+			<Cell><Data ss:Type="String">02:18AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82153</Data></Cell>
+			<Cell><Data ss:Type="String">40185</Data></Cell>
+			<Cell><Data ss:Type="String">03:26AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82135</Data></Cell>
+			<Cell><Data ss:Type="String">68335</Data></Cell>
+			<Cell><Data ss:Type="String">04:02AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13704</Data></Cell>
+			<Cell><Data ss:Type="String">39265</Data></Cell>
+			<Cell><Data ss:Type="String">09:46AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13707</Data></Cell>
+			<Cell><Data ss:Type="String">43765</Data></Cell>
+			<Cell><Data ss:Type="String">10:35AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13707</Data></Cell>
+			<Cell><Data ss:Type="String">68465</Data></Cell>
+			<Cell><Data ss:Type="String">11:16AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">82212</Data></Cell>
+			<Cell><Data ss:Type="String">9825</Data></Cell>
+			<Cell><Data ss:Type="String">11:40AM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13642</Data></Cell>
+			<Cell><Data ss:Type="String">31325</Data></Cell>
+			<Cell><Data ss:Type="String">12:25PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13708</Data></Cell>
+			<Cell><Data ss:Type="String">33510</Data></Cell>
+			<Cell><Data ss:Type="String">01:59PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">5602</Data></Cell>
+			<Cell><Data ss:Type="String">21565</Data></Cell>
+			<Cell><Data ss:Type="String">02:53PM</Data></Cell>
+			<Cell><Data ss:Type="String">03/07/2024</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
