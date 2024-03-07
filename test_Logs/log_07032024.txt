@@ -949,3 +949,77 @@ Traceback (most recent call last):
   File "Final.py", line 36, in Auto
     start=InputD[item]
 IndexError: list index out of range
+
+Connection established
+['', 'Truck ID   13707', '', 'Gross    68465 kg', '', '11:16AM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001E364B52080>
+13707
+68465
+11:16AM
+03/07/2024
+Connection established
+['Truck ID  13707', '', 'Gross    68480 kg ', 'Tare     68465 kg RECALLED', 'Net         15 kg', '', '11:30AM 03/07/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001E364B520B0>
+13707
+68480
+68465
+15
+11:30AM
+03/07/2024
+Connection established
+['Truck ID  13707', '', 'Gross    68480 kg ', 'Tare     43765 kg KEYED', 'Net      24715 kg', '', '11:31AM 03/07/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001E364B520B0>
+13707
+68480
+43765
+24715
+11:31AM
+03/07/2024
+Connection established
+['', 'Truck ID   82212', '', 'Gross     9825 kg', '', '11:40AM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001E364B52080>
+82212
+9825
+11:40AM
+03/07/2024
+Connection established
+['', 'Truck ID   13642', '', 'Gross    31325 kg', '', '12:25PM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001E364B52080>
+13642
+31325
+12:25PM
+03/07/2024
+Connection established
+['Truck ID  13642', '', 'Gross    69205 kg ', 'Tare     31325 kg RECALLED', 'Net      37880 kg', '', '12:51PM 03/07/2024']
+Weigh Out
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001E364B520B0>
+13642
+69205
+31325
+37880
+12:51PM
+03/07/2024
+Connection established
+['', 'Truck ID   13708', '', 'Gross    33510 kg', '', '01:59PM 03/07/2024']
+Weigh In
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001E364B521A0>
+13708
+33510
+01:59PM
+03/07/2024
+Connection established
+['Truck ID  5602', '', 'Gross    72525 kg RECALLED', 'Tare     21535 ']
+Weigh In
+Exception in thread Thread-1 (setup):
+Traceback (most recent call last):
+  File "threading.py", line 1016, in _bootstrap_inner
+  File "threading.py", line 953, in run
+  File "gui.py", line 34, in setup
+  File "Final.py", line 48, in Auto
+    ExData=[TruckId,Gross,Date,Time]
+UnboundLocalError: local variable 'Date' referenced before assignment
